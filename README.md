@@ -159,3 +159,6 @@ Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 [TIKI]: https://tiki.id/resi
 [Wahana]: https://www.wahana.com/
 [SiCepat]: www.sicepat.com/
+
+#Credit
+ini diambil dari repository mas Fariz Ramadhan @farizdotid
