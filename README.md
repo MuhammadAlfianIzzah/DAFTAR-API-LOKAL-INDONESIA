@@ -160,5 +160,5 @@ Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 [Wahana]: https://www.wahana.com/
 [SiCepat]: www.sicepat.com/
 
-#Credit
+# Credit
 ini diambil dari repository mas Fariz Ramadhan @farizdotid
