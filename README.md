@@ -96,6 +96,7 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Data Pandemi Covid-19 | Teguh Aprianto | [Link](https://kawalcorona.com/api/) | `Aktif` | API untuk memantau dearah-dearah yang terjangkit virus covid-19/corona | Tidak |
 | Data Pandemi Covid-19 | Muhammad Mustadi (mathdroid) | [Link](https://covid19.mathdro.id/api) | `Aktif` | API untuk memantau dearah-dearah yang terjangkit virus covid-19/corona | Tidak |
+|Covid 19 api|Kyle Redelinghuys|[Link](https://covid19api.com/#details)|`Aktif`|Api untuk memantau status corona terbaru|Tidak|
 
 ### Lokasi
 
@@ -139,12 +140,6 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Produk Halal MUI | iBachor | [Link](https://github.com/bachors/apiapi#produk-halal-mui) | `Aktif` | API untuk mencari produk halal yang terdaftar pada lembaga MUI (Majelis Ulama Indonesia) | Tidak |
-
-## Kontak
-
-Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
-
-Hatur Nuhun. :)
 
 ## :fire: TERIMAKASIH :fire:
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
